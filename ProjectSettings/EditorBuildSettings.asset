@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuAssets/MenuScene.unity
+  - enabled: 1
+    path: Assets/LobbyAssets/LobbyScene.unity
+  - enabled: 1
+    path: Assets/GameHistoryAssets/GameHistoryScene.unity
+  - enabled: 1
+    path: Assets/GameAssets/GameScene.unity
+  - enabled: 1
+    path: Assets/GameAssets/GameEndScene.unity
+  - enabled: 1
+    path: Assets/GameAssets/MasterServerScene.unity
+  - enabled: 1
+    path: Assets/GameAssets/SettingsScene.unity
+  - enabled: 1
+    path: Assets/LeaderboardAssets/LeaderboardScene.unity
